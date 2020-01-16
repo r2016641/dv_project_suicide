@@ -12,7 +12,7 @@ from plotly.offline import init_notebook_mode, iplot
 
 
 ######## DATASET IMPORT #######
-from matplotlib import ticker
+
 
 
 def import_data(path, extension):
