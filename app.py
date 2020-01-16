@@ -9,7 +9,7 @@ import numpy as np
 from dash import Dash
 from dash.dependencies import Input, Output, State
 from plotly.offline import init_notebook_mode, iplot
-from IPython.display import display, HTML
+
 
 ######## DATASET IMPORT #######
 from matplotlib import ticker
