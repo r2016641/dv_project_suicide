@@ -7,8 +7,8 @@ import pandas as pd
 import plotly.express as px
 import numpy as np
 from dash import Dash
-from dash.dependencies import Input, Output, State
-from plotly.offline import init_notebook_mode, iplot
+from dash.dependencies import Input, Output
+from plotly.offline import init_notebook_mode
 
 
 ######## DATASET IMPORT #######
