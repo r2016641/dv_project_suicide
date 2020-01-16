@@ -11,7 +11,6 @@ requests==2.22.0
 pandas==0.25.3
 numpy==1.17.4
 numpydoc==0.9.1
-plotly.graph_objects
 plotly.express
 dash.dependencies
 plotly.offline
