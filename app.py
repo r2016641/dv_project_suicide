@@ -32,7 +32,7 @@ spyear_path = 'suicide-rates-by-age-detailed.csv'
 deathrate_path = 'suicide-death-rates.csv'
 suicidesex_path = 'suicide-death-rates-by-sex.csv'
 path_fire = 'suicide-rate-by-firearm.csv'
-pop = 'API_SP.POP.TOTL_DS2_en_excel_v2_713231.xls'
+pop = 'API_SP.POP.TOTL_DS2_en_excel_v2_713231.xlsx'
 
 ########### PRE-PROCESSING #########
 # Delete duplicates
