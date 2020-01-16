@@ -8,7 +8,7 @@ import plotly.express as px
 import numpy as np
 from dash import Dash
 from dash.dependencies import Input, Output
-from plotly.offline import init_notebook_mode
+#from plotly.offline import init_notebook_mode
 
 
 ######## DATASET IMPORT #######
@@ -150,7 +150,7 @@ pt.columns =['Year','Cardiovascular diseases','Cancers', 'Dementia', 'Lower resp
 
 
 
-init_notebook_mode(connected = True)
+#init_notebook_mode(connected = True)
 
 
 
